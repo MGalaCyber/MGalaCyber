@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MGalaCyber/MGalaCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Discord
+<p align="center">
+  <a href="https://discord.gg/VzGNhtmmfB"><img src="https://discordapp.com/api/guilds/826406117658853417/widget.png?style=banner2" alt="Discord server"></a>
+</p>
+
 ***
 ![MGalaCyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGalaCyber&theme=blue-green&show_icons=true)
+
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGalaCyber)](https://github.com/MGalaCyber/github-readme-stats)
 ***
 [![MGalaCyber's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MGalaCyber)](https://github.com/MGalaCyber/github-readme-stats)
+
 ***
+## [Discord Server](https://discord.gg/VzGNhtmmfB) | [Website](https://galacyber.xyz)
+
+***
+## SUPPORT ME AND MGALACYBER DEVELOPMENT
+<img src="https://komarev.com/ghpvc/?username=MGalaCyber" alt="Discord.js-v13-Handler-Template"/>
+
+> You can always Support me by inviting one of my **own Discord Bots**
+
+[![Galaxy1274 Bot](https://cdn.discordapp.com/attachments/896769155188015175/896771476517167186/IMG_20211010_223937.png)](https://galaxy1274.xyz)
+[![Shiro-chan Bot](https://cdn.discordapp.com/attachments/896769155188015175/896771476236173352/IMG_20211010_223749.png)](https://Shiro-chan.xyz)
