@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 > You can always Support me by inviting one of my **own Discord Bots**
 
-[![Galaxy1274 Bot](https://cdn.discordapp.com/attachments/896769155188015175/896771476517167186/IMG_20211010_223937.png)](https://galaxy1274.xyz)
-[![Shiro-chan Bot](https://cdn.discordapp.com/attachments/896769155188015175/896771476236173352/IMG_20211010_223749.png)](https://Shiro-chan.xyz)
+[![Galaxy1274 Bot](https://cdn.discordapp.com/attachments/896769155188015175/896771476517167186/IMG_20211010_223937.png)](https://mgalacyber.github.io/Galaxy1274.html)
+[![Shiro-chan Bot](https://cdn.discordapp.com/attachments/896769155188015175/896771476236173352/IMG_20211010_223749.png)](https://mgalacyber.github.io/Shiro.html)
