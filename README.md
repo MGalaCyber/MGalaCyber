@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![MGalaCyber's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MGalaCyber)](https://github.com/MGalaCyber/github-readme-stats)
 
 ***
-## [Discord Server](https://discord.gg/VzGNhtmmfB) | [Website](https://mgalacyber.github.io)
+## [Discord Server](https://discord.gg/VzGNhtmmfB) | [Website](https://galacyber.vercel.app)
 <!--
 ***
 ## SUPPORT ME AND MGALACYBER DEVELOPMENT
