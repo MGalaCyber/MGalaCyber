@@ -1,18 +1,3 @@
-<!--
-**MGalaCyber/MGalaCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center" style"border-radius:15px">
   <img src="https://cdn.discordapp.com/attachments/891317640763695134/940941206282715146/MGalaCyber.gif?size=4096" style"width: 100%;border-radius:15px">
 </div>
@@ -24,12 +9,16 @@ Here are some ideas to get you started:
 </p>
 
 ***
-<img src="https://komarev.com/ghpvc/?username=MGalaCyber" alt="Discord.js-v13-Handler-Template"/>
+<div align="center">
 
+  <img src="https://komarev.com/ghpvc/?username=MGalaCyber" alt="MGalaCyber"/>
+</div>
 
 ***
+<div align="center">
+  
 ![MGalaCyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGalaCyber&theme=blue-green&show_icons=true)
-
+</div>
 
 ***
 <div align="center">
