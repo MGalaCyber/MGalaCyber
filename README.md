@@ -41,12 +41,11 @@
   <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mgalacyber&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en&layout=compact" alt="mgalacyber" />
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mgalacyber&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en" alt="mgalacyber" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mgalacyber&theme=dark" alt="mgalacyber" />
   
 <!--[![MGalaCyber's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MGalaCyber)](https://github.com/MGalaCyber/github-readme-stats)-->
 </div>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mgalacyber&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en" alt="mgalacyber" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mgalacyber&theme=dark" alt="mgalacyber" />
 
 ***
 ## [Discord Server](https://discord.gg/VzGNhtmmfB) | [Website](https://galacyber.vercel.app)
