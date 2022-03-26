@@ -45,7 +45,7 @@
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mgalacyber&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en" alt="mgalacyber" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgalacyber&theme=dark" alt="mgalacyber" />
   
-<!--[![MGalaCyber's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MGalaCyber)](https://github.com/MGalaCyber/github-readme-stats)-->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@01249c98-d102-4753-9eb3-d47cc1f3f864&compact=True" />
 </div>
 
 ***
