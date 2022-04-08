@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/attachments/891317640763695134/940941206282715146/MGalaCyber.gif?size=4096" style"width: 100%;border-radius:15px">
 </div>
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hi, I'm MGalaCyber </h1>
-<h3 align="center">Discord bot Developer | Random People</h3>
+<h3 align="center">Discord bot Developer | Random Person</h3>
 
 ***
 <p align="center">
