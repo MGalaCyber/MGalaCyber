@@ -36,17 +36,22 @@
 <p><a href="https://ko-fi.com/mgalacyber1274"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mgalacyber1274" /></a></p><br><br>
 
 ***
+
+<details>
+<summary>Click Here for My Stats</summary>
+<br>
 <div align="center">
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgalacyber" alt="mgalacyber" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgalacyber&theme=radical" alt="mgalacyber" /></a>
   <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mgalacyber&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en&layout=compact" alt="mgalacyber" />
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mgalacyber&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en" alt="mgalacyber" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgalacyber&theme=dark" alt="mgalacyber" />
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@01249c98-d102-4753-9eb3-d47cc1f3f864&compact=True" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@01249c98-d102-4753-9eb3-d47cc1f3f864&show_icons=true&title_color=04ff00&text_color=4760BB&bg_color=121212&compact=True" />
 </div>
+</details>
 
 ***
 ## [Discord Server](https://discord.gg/VzGNhtmmfB) | [Website](https://galacyber.vercel.app)
@@ -56,11 +61,17 @@
 
 > You can always Support me by inviting one of my **own Discord Bots**
 
-<div align="center">
+<details>
+<summary>Click Here for Support My Botz</summary>
+<br>
+  
+  <div align="center">
 <a href="https://top.gg/bot/869755197046530060">
   <img src="https://top.gg/api/widget/869755197046530060.svg">
 </a>
 </div>
+  
+</details>
 
 ***
 ## CREDIT
