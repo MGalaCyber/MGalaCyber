@@ -1,8 +1,12 @@
 <div align="center" style"border-radius:15px">
   <img src="https://cdn.discordapp.com/attachments/891317640763695134/940941206282715146/MGalaCyber.gif?size=4096" style"width: 100%;border-radius:15px">
 </div>
-<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hi, I'm MGalaCyber </h1>
-<h3 align="center">Discord bot Developer | Random Person</h3>
+<h1 align="center">
+  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hi, I'm MGalaCyber 
+</h1>
+<h3 align="center">
+  Discord bot Developer | Random Person
+</h3>
 
 ***
 <p align="center">
@@ -15,7 +19,9 @@
 
 ***
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mgalacyber&label=Profile%20views&color=00ff11&style=flat-square" alt="mgalacyber" />
+  <a href="https://github.com/MGalaCyber">
+    <img src="https://komarev.com/ghpvc/?username=mgalacyber&label=Profile%20views&color=00ff11&style=flat-square" alt="mgalacyber" />
+  </a>
 </p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
