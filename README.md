@@ -82,9 +82,9 @@
 <br>
 
 ***
-
+  
 <details>
-<summary>Click Here for My Stats</summary>
+<summary>Click Here for My Github Stats</summary>
 <br>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -93,14 +93,19 @@
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mgalacyber&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en&layout=compact" alt="mgalacyber" />
-  <p>&nbsp;
+  <a href="https://github.com/MGalaCyber">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mgalacyber&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en&layout=compact" alt="mgalacyber" />
+    <p>
+  </a>
+  <a href="https://github.com/MGalaCyber">
     <img src="https://github-readme-stats.vercel.app/api?username=mgalacyber&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en" alt="mgalacyber" />
-  <a href="https://github.com/MGalaCyber/">
+  </a>
+  <a href="https://github.com/MGalaCyber">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=MGalaCyber&hide_border=false&background=121212&currStreakLabel=4760BB&sideLabels=4760BB&currStreakNum=FFFF00&dates=FFFF00&sideNums=04ff00&fire=FF0000&ring=04ff00&stroke=FFFFFFFF)](https://git.io/streak-stats" />
-    </a>
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@01249c98-d102-4753-9eb3-d47cc1f3f864&show_icons=true&title_color=04ff00&text_color=4760BB&bg_color=121212&compact=True" />
+  </a>
+  <a href="https://github.com/MGalaCyber">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@01249c98-d102-4753-9eb3-d47cc1f3f864&show_icons=true&title_color=04ff00&text_color=4760BB&bg_color=121212&compact=True" />
+  </a>
 
 ***
 
@@ -133,3 +138,4 @@
 > If consider using this Bot, make sure to credit me!
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgalacyber&theme=dark&" alt="mgalacyber" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgalacyber&theme=tokyonight&hide=batchfile"> -->
