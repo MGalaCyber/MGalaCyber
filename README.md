@@ -1,5 +1,7 @@
 <div align="center" style"border-radius:15px">
-  <img src="https://cdn.discordapp.com/attachments/891317640763695134/940941206282715146/MGalaCyber.gif?size=4096" style"width: 100%;border-radius:15px">
+      <a href="https://galacyber.xyz/">
+        <img src="./Images/MGalaCyber.gif" />
+    </a>
 </div>
 <h1 align="center">
   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hi, I'm MGalaCyber 
@@ -145,3 +147,4 @@
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgalacyber&theme=dark&" alt="mgalacyber" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgalacyber&theme=tokyonight&hide=batchfile"> -->
+<!-- <img src="https://cdn.discordapp.com/attachments/891317640763695134/940941206282715146/MGalaCyber.gif?size=4096" style"width: 100%;border-radius:15px"> -->
