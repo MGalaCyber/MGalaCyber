@@ -1,10 +1,13 @@
 <div align="center" style"border-radius:15px">
-      <a href="https://galacyber.xyz/">
+      <a href="https://galacyber.xyz">
         <img src="./Images/MGalaCyber.gif" />
     </a>
 </div>
 <h1 align="center">
-  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hi, I'm MGalaCyber 
+      <a href="http://github.com/MGalaCyber">
+            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></a>
+      Hi, I'm
+      <a href="https://galacyber.is-a.dev">MGalaCyber</a>
 </h1>
 <h3 align="center">
   Discord bot Developer | Random Person
@@ -25,8 +28,9 @@
     <img src="https://komarev.com/ghpvc/?username=mgalacyber&label=Profile%20views&color=00ff11&style=flat-square" alt="mgalacyber" />
   </a>
 </p>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<a href="https://github.com/MGalaCyber">
+      <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+</a>
 
 - 👨‍💻 All of my projects are available at [GalaCyber Projects](https://galacyber.vercel.app/projects.html)
 
