@@ -4,11 +4,13 @@
     </a>
 </div>
 <h1 align="center">
-      <a href="http://github.com/MGalaCyber">
-            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></a>
+<!--       <a href="https://galacyber.xyz"> -->
+            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+      </a>
       Hi, I'm
       <a href="https://galacyber.is-a.dev">MGalaCyber</a>
 </h1>
+
 <h3 align="center">
   Discord bot Developer | Random Person
 </h3>
