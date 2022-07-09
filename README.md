@@ -34,9 +34,7 @@
       <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </a>
 
-- 👨‍💻 All of my projects are available at [GalaCyber Projects](https://galacyber.vercel.app/projects.html)
-
-- 📝 I regularly write articles on [GalaCyber Article](https://galacyber.vercel.app)
+- 👨‍💻 All of my projects are available at [GalaCyber Projects](https://github.com/MGalaCyber?tab=repositories)
 
 > <h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40"> Connect with me:</h3>
 <p align="left">
