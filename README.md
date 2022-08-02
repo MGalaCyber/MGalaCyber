@@ -85,11 +85,12 @@
 </p>
 
 > <h3 align="left">Support:</h3>
-<p>
-  <a href="https://ko-fi.com/mgalacyber1274">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mgalacyber1274" />
+  <a href="https://trakteer.id/manggala1274" target="_blank">
+      <img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-green-1.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya">
   </a>
-</p>
+  <!-- <a href="https://ko-fi.com/mgalacyber1274" target="_blank">
+    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mgalacyber1274" />
+  </a> -->
 <br>
 <br>
 
