@@ -27,7 +27,7 @@
 ***
 <p align="center">
   <a href="https://github.com/MGalaCyber">
-    <img src="https://komarev.com/ghpvc/?username=MGalaCyber&style=for-the-badge&label=PROFILE%20VIEWS&color=00ff11" alt="MGalaCyber" />
+    <img src="https://komarev.com/ghpvc/?username=MGalaCyber&style=for-the-badge&label=PROFILE%20VIEWS&color=03fc2c" alt="MGalaCyber" />
   </a>
 </p>
 <a href="https://github.com/MGalaCyber">
