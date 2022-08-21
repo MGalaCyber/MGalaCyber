@@ -27,7 +27,7 @@
 ***
 <p align="center">
   <a href="https://github.com/MGalaCyber">
-    <img src="https://komarev.com/ghpvc/?username=mgalacyber&label=Profile%20views&color=00ff11&style=flat-square" alt="mgalacyber" />
+    <img src="https://komarev.com/ghpvc/?username=MGalaCyber&style=for-the-badge&label=PROFILE%20VIEWS&color=00ff11" alt="MGalaCyber" />
   </a>
 </p>
 <a href="https://github.com/MGalaCyber">
@@ -153,3 +153,4 @@
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgalacyber&theme=dark&" alt="mgalacyber" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgalacyber&theme=tokyonight&hide=batchfile"> -->
 <!-- <img src="https://cdn.discordapp.com/attachments/891317640763695134/940941206282715146/MGalaCyber.gif?size=4096" style"width: 100%;border-radius:15px"> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=mgalacyber&label=Profile%20views&color=00ff11&style=flat-square" alt="mgalacyber" /> -->
