@@ -35,6 +35,7 @@
 </a>
 
 - 👨‍💻 All of my projects are available at [GalaCyber Projects](https://github.com/MGalaCyber?tab=repositories)
+- 👨‍💻 All of my gits are available at [GalaCyber Gits](https://gist.github.com/MGalaCyber)
 
 > <h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40"> Connect with me:</h3>
 <p align="left">
