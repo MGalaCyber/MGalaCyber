@@ -37,7 +37,7 @@
 > <h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40"> Connect with me:</h3>
 <div align="left">
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/VzGNhtmmfB)
+[![Discord](https://img.shields.io/badge/Discord-%230167ff.svg?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/VzGNhtmmfB)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/GalaNimation)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Ib.Manggala)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/GalaXd1274)
