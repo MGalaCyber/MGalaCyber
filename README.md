@@ -24,6 +24,12 @@
   </a>
 </p>
 
+<!-- <div align="center" width="40">
+
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MGalaCyber&theme=dark&data=followers,repositories,stars,commits)
+
+</div> -->
+
 ***
 <p align="center">
   <a href="https://github.com/MGalaCyber">
