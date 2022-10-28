@@ -151,7 +151,18 @@
 
 ***
 ## CREDIT
-> If consider using this Bot, make sure to credit me!
+> If You use my **Source Code**, please add *credit* in your description or inside your code
+<details>
+<summary>Click Here for View Credit Template</summary>
+
+      -------------------------------------------
+      Creator     : MGalaCyber
+      Discord     : GalaXd#9165
+      Github      : https://github.com/MGalaCyber
+      Server      : https://discord.gg/VzGNhtmmfB
+      -------------------------------------------
+
+</details>
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgalacyber&theme=dark&" alt="mgalacyber" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgalacyber&theme=tokyonight&hide=batchfile"> -->
