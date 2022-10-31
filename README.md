@@ -156,7 +156,7 @@
 <summary>Click Here for View Credit Template</summary>
 
       -------------------------------------------
-      Creator     : MGalaCyber
+      Author      : MGalaCyber
       Discord     : GalaXd#9165
       Github      : https://github.com/MGalaCyber
       Server      : https://discord.gg/VzGNhtmmfB
