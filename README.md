@@ -124,8 +124,8 @@
   </a>
 
 ***
-
-  <a href="https://github.com/MGalaCyber"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MGalaCyber&bg_color=0D1117&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" /></a>
+      
+  <a href="https://github.com/MGalaCyber"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MGalaCyber&bg_color=0D1117&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" /></a>
 </div>
 </details>
 
