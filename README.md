@@ -49,7 +49,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/GalaXd1274)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18128610)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/IB_Manggala)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/channel/@GalaXd1274)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@GalaXd1274)
 <!-- [![Codepen](https://img.shields.io/badge/Codepen-%23000000.svg?style=for-the-badge&logo=Codepen&logoColor=white)](https://codepen.io/mgalacyber) -->
 <!-- [![Codesandbox](https://img.shields.io/badge/Codesandbox-%23000000.svg?style=for-the-badge&logo=Codesandbox&logoColor=white)](https://codesandbox.com/mgalacyber) --> 
 
