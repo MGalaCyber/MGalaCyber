@@ -49,9 +49,11 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/GalaXd1274)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18128610)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/IB_Manggala)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/channel/UCgCCwoPs1l895X3ssa1DP0Q)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/channel/@GalaXd1274)
 <!-- [![Codepen](https://img.shields.io/badge/Codepen-%23000000.svg?style=for-the-badge&logo=Codepen&logoColor=white)](https://codepen.io/mgalacyber) -->
 <!-- [![Codesandbox](https://img.shields.io/badge/Codesandbox-%23000000.svg?style=for-the-badge&logo=Codesandbox&logoColor=white)](https://codesandbox.com/mgalacyber) --> 
+
+<br/>
 
 </div>
 
@@ -70,19 +72,31 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Replit](https://img.shields.io/badge/-replit-%23E34F26?style=for-the-badge&logo=replit&logoColor=white)
 <!-- ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) -->
 <!-- ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) -->
 <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 <!-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) -->
 <!-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) -->
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<!-- ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff) -->
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 <!-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
 <!-- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) -->
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Gitpod](https://img.shields.io/badge/-gitpod-%23FFA500?style=for-the-badge&logo=gitpod&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=ffffff)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<!-- ![Glitch](https://img.shields.io/badge/-glitch-%23FF1493?style=for-the-badge&logo=glitch&logoColor=white) -->
+<!-- ![Railway](https://img.shields.io/badge/railway-563D7C?style=for-the-badge&logo=railway&logoColor=white) -->
+<!-- ![sublime](https://img.shields.io/badge/-sublime-%23575757?style=for-the-badge&logo=Sublime-text&logoColor=orange) -->
 <!-- ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
 
 </div>
