@@ -156,9 +156,12 @@
 <br>
   
   <div align="center">
-<a href="https://top.gg/bot/869755197046530060">
-  <img src="https://top.gg/api/widget/869755197046530060.svg">
-</a>
+        <a href="https://top.gg/bot/869755197046530060">
+              <img src="https://top.gg/api/widget/869755197046530060.svg">
+        </a>
+        <a href="https://top.gg/bot/850704166359531520">
+              <img src="https://top.gg/api/widget/850704166359531520.svg">
+        </a>
 </div>
   
 </details>
