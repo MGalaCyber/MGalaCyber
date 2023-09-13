@@ -117,29 +117,27 @@
 <summary>Click Here for My Github Stats</summary>
 <br>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mgalacyber&theme=radical" alt="mgalacyber" />
-  </a>
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+  <a href="https://github.com/MGalaCyber">
+    <img alt="Achivements" src="https://github-profile-trophy.vercel.app/?username=mgalacyber&theme=radical" />
   </a>
   <a href="https://github.com/MGalaCyber">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mgalacyber&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en&layout=compact" alt="mgalacyber" />
-    <p>
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mgalacyber&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en&show=reviews,discussions_started,prs_merged,prs_merged_percentage&card_width=1000px" />
   </a>
   <a href="https://github.com/MGalaCyber">
-    <img src="https://github-readme-stats.vercel.app/api?username=mgalacyber&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en" alt="mgalacyber" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgalacyber&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en&card_width=900px&layout=compact" />
   </a>
   <a href="https://github.com/MGalaCyber">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MGalaCyber&hide_border=false&background=121212&currStreakLabel=4760BB&sideLabels=4760BB&currStreakNum=FFFF00&dates=FFFF00&sideNums=04ff00&fire=FF0000&ring=04ff00&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+    <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=MGalaCyber&hide_border=false&background=121212&currStreakLabel=4760BB&sideLabels=4760BB&currStreakNum=FFFF00&dates=FFFF00&sideNums=04ff00&fire=FF0000&ring=04ff00&stroke=FFFFFFFF&card_width=695" />
   </a>
   <a href="https://github.com/MGalaCyber">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@01249c98-d102-4753-9eb3-d47cc1f3f864&show_icons=true&title_color=04ff00&text_color=4760BB&bg_color=121212&compact=True" />
+    <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@01249c98-d102-4753-9eb3-d47cc1f3f864&show_icons=true&title_color=04ff00&text_color=04ff00&bg_color=121212&text_bold=true&layout=compact" />
   </a>
 
 ***
-      
-  <a href="https://github.com/MGalaCyber"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MGalaCyber&bg_color=0D1117&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" /></a>
+
+  <a href="https://github.com/MGalaCyber">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MGalaCyber&bg_color=0D1117&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" />
+  </a>
 </div>
 </details>
 
