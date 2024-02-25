@@ -164,21 +164,6 @@
   
 </details>
 
-***
-## CREDIT
-> If You use my **Source Code**, please add *credit* in your description or inside your code
-<details>
-<summary>Click Here for View Credit Template</summary>
-
-      -------------------------------------------
-      Author      : MGalaCyber
-      Discord     : GalaXd#9165
-      Github      : https://github.com/MGalaCyber
-      Server      : https://discord.gg/VzGNhtmmfB
-      -------------------------------------------
-
-</details>
-
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgalacyber&theme=dark&" alt="mgalacyber" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgalacyber&theme=tokyonight&hide=batchfile"> -->
 <!-- <img src="https://cdn.discordapp.com/attachments/891317640763695134/940941206282715146/MGalaCyber.gif?size=4096" style"width: 100%;border-radius:15px"> -->
