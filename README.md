@@ -126,15 +126,18 @@
   <a href="https://github.com/MGalaCyber">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgalacyber&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en&card_width=900px&layout=compact" />
   </a>
-  <a href="https://github.com/MGalaCyber">
+<!--   <a href="https://github.com/MGalaCyber">
     <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=MGalaCyber&hide_border=false&background=121212&currStreakLabel=4760BB&sideLabels=4760BB&currStreakNum=FFFF00&dates=FFFF00&sideNums=04ff00&fire=FF0000&ring=04ff00&stroke=FFFFFFFF&card_width=695" />
-  </a>
+  </a> -->
   <a href="https://github.com/MGalaCyber">
     <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@01249c98-d102-4753-9eb3-d47cc1f3f864&show_icons=true&title_color=04ff00&text_color=04ff00&bg_color=121212&text_bold=true&layout=compact" />
   </a>
 
 ***
 
+  <a href="https://github.com/MGalaCyber">
+    <img alt="Wakatime Coding Activity" src="https://wakatime.com/share/@01249c98-d102-4753-9eb3-d47cc1f3f864/3ce3ea22-9291-4316-8c54-b3a78158fa2f.svg" />
+  </a>
   <a href="https://github.com/MGalaCyber">
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MGalaCyber&bg_color=0D1117&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" />
   </a>
